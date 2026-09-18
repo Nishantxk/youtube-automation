@@ -1,0 +1,6 @@
+{
+  "name": "YouTube Upload Automation",
+  "description": "Automated YouTube video upload pipeline with Gemini AI metadata generation and scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
